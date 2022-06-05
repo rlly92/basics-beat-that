@@ -1,7 +1,4 @@
 var main = function (input) {
-  var myOutputValue = "pooper";
+  var myOutputValue = "hello world";
   return myOutputValue;
 };
-var poopoo = "MR LOBA LOBA";
-
-var iowrioenfe = 333;
